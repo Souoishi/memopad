@@ -1,0 +1,55 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.notepad{
+    font-size: 5rem;
+}
+
+#new_btn{
+    width: 15%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.container{
+    display: block;
+    width:80%
+}
+
+.write{
+    display: flex;
+    flex-direction: column;
+}
+
+#save_btn{
+    width: 20%;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+textarea {
+    height: 20rem;
+}
+
+.read{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#noteDisplay{
+    margin-top: 2rem;
+    border: 1px solid black;
+
+}
+
+#noteRecords{
+    border-radius: 10px
+}
+
+
+
+
+
